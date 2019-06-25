@@ -6,7 +6,7 @@ define( [], function () {
 		type: "string",
 		expression: "optional",
 		show: true,
-		defaultValue: "viz.developer1@machineworksai.com"
+		defaultValue: "Enter your username"
 
 	};
 
@@ -16,7 +16,7 @@ define( [], function () {
 		type: "string",
 		expression: "optional",
 		show: true,
-		defaultValue: "vizdeveloper123"
+		defaultValue: "Enter your password"
 	};
 	var ApiUrlSetting = {
 		ref: "props.apiUrl",
@@ -62,9 +62,25 @@ define( [], function () {
 				label: "RandomForestRegressor"
 			},
 			{
-				value: "XGBRegressor",
-				label: "XGBRegressor"
+				value: "DecisionTreeRegressor",
+				label: "DecisionTreeRegressor"
 			},
+			{
+				value: "GradientBoostingRegressor",
+				label: "GradientBoostingRegressor"
+			},
+			{
+				value: "GradientBoostingClassifier",
+				label: "GradientBoostingClassifier"
+			},	
+			{
+				value: "XGBClassifier",
+				label: "XGBClassifier"
+			},	
+			{
+				value: "RandomForestClassifier",
+				label: "RandomForestClassifier"
+			},	
 			{
 				value: "LogisticRegression",
 				label: "LogisticRegression"
