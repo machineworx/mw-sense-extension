@@ -1,4 +1,4 @@
-QUICK START GUIDE:
+﻿QUICK START GUIDE:
 	Following steps are critical for the functioning of the extension
 o	Create your account by signing up for beta with the MachineWorks and access the cloud based AutoML platform
 o	You will receive an email outlining instructions to secure beta access for your credentials
@@ -40,4 +40,6 @@ o	Use External – Leave this toggle to Off, if you would like to use QLIK data 
 USAGE AND LIMITATION
 	MachineWorks AutoML platform supports limited free tier for all users with datafile size restricted to 10MB. 
 	Contact admin@machineworksai.com for usage scenarios without data file restrictions and on-premise options   
-	FAQ & Training videos available here. Extension video Link   MW Platform Link
+	FAQ & Training videos: https://medium.com/machine-works/automl-in-just-3-steps-51ca31527c28 
+	Extension video https://youtu.be/i-wXuUhY6m8   
+	MW Platform Link https://beta.machineworksai.com/

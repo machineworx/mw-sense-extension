@@ -6,7 +6,7 @@ define( [], function () {
 		type: "string",
 		expression: "optional",
 		show: true,
-		defaultValue: "Enter your username"
+		defaultValue: "Enter your username here"
 
 	};
 
@@ -16,7 +16,7 @@ define( [], function () {
 		type: "string",
 		expression: "optional",
 		show: true,
-		defaultValue: "Enter your password"
+		defaultValue: "Enter your password here"
 	};
 	var ApiUrlSetting = {
 		ref: "props.apiUrl",
@@ -62,25 +62,9 @@ define( [], function () {
 				label: "RandomForestRegressor"
 			},
 			{
-				value: "DecisionTreeRegressor",
-				label: "DecisionTreeRegressor"
+				value: "XGBRegressor",
+				label: "XGBRegressor"
 			},
-			{
-				value: "GradientBoostingRegressor",
-				label: "GradientBoostingRegressor"
-			},
-			{
-				value: "GradientBoostingClassifier",
-				label: "GradientBoostingClassifier"
-			},	
-			{
-				value: "XGBClassifier",
-				label: "XGBClassifier"
-			},	
-			{
-				value: "RandomForestClassifier",
-				label: "RandomForestClassifier"
-			},	
 			{
 				value: "LogisticRegression",
 				label: "LogisticRegression"
