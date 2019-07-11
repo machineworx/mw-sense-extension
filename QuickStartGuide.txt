@@ -41,5 +41,5 @@ USAGE AND LIMITATION
 	MachineWorks AutoML platform supports limited free tier for all users with datafile size restricted to 10MB. 
 	Contact admin@machineworksai.com for usage scenarios without data file restrictions and on-premise options   
 	FAQ & Training videos: https://medium.com/machine-works/automl-in-just-3-steps-51ca31527c28 
-	Extension video https://youtu.be/i-wXuUhY6m8   
+	Extension video https://youtu.be/aimj7We_mFw   
 	MW Platform Link https://beta.machineworksai.com/

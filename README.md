@@ -42,5 +42,5 @@ Following steps are critical for the functioning of the extension
 * MachineWorks AutoML platform supports free tier with datafile size restricted to 10MB. 
 * Contact mw@machineworksai.com for usage scenarios without data file restrictions and help   
 * FAQ & Training videos: https://medium.com/machine-works/automl-in-just-3-steps-51ca31527c28 
-* Extension video https://youtu.be/i-wXuUhY6m8   
+* Extension video https://youtu.be/aimj7We_mFw   
 * MW Platform Link https://beta.machineworksai.com/
