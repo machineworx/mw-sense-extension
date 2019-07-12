@@ -1,8 +1,9 @@
 ### QUICK START GUIDE:
 
-Following steps are critical for the functioning of the extension
-* Create your account by signing up for beta with the MachineWorks and access the cloud based AutoML platform
-* You will receive an email outlining instructions to secure beta access for your credentials
+Following steps are critical for the functioning of the extension. Sign up with Machine Works to get your credentials to be used within the extension
+* Go to http://machineworksai.com/ 
+* Sign up for beta to create your account with Machine Works
+* You will receive an email outlining instructions to secure beta access for your credential
 * Retain the credentials for use within the extension as outlined in the instruction below
 
 ### INSTALLATION
